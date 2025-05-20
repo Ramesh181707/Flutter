@@ -1,6 +1,6 @@
 # flutter_application_1
 
-A new Flutter project.
+A new Flutter project with Back4App.
 
 ## Getting Started
 
